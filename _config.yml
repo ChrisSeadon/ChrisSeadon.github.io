@@ -30,6 +30,7 @@ github_username:  chrisseadon
 
 # Build settings
 theme: jekyll-theme-slate
+repository: ChrisSeadon/ChrisSeadon.github.io
 plugins:
   - jekyll-feed
 
