@@ -29,7 +29,7 @@ twitter_username: alas i don't have one
 github_username:  chrisseadon
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
