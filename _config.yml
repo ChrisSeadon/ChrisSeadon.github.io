@@ -29,10 +29,11 @@ twitter_username: alas i don't have one
 github_username:  chrisseadon
 
 # Build settings
-theme: minima
+remote_theme: daattali/beautiful-jekyll@5.0.0
 repository: ChrisSeadon/ChrisSeadon.github.io
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
