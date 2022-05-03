@@ -1,0 +1,11 @@
+---
+layout: post
+title: Test Post!
+date: 2022-05-03 19:07
+---
+### Testing the thing!
+In theory I just type in this text file and it'll format this as a blog post? Let's find out.
+
+Then will need to sort out that header image and remove the weird circular icon. If you're reading this and you're not me it's probably already gone and you have no idea what I'm talking about -- replaced with the big blue banner thing that says I'm a time traveller (I *am* a time traveller)
+
+*Absolutely Prime*
