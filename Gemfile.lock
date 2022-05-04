@@ -152,6 +152,8 @@ GEM
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
+    jekyll-miniaudio (0.1.1)
+      jekyll (~> 3.8)
     jekyll-optional-front-matter (0.3.2)
       jekyll (>= 3.0, < 5.0)
     jekyll-paginate (1.1.0)
@@ -305,6 +307,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll-admin
   jekyll-feed (~> 0.12)
+  jekyll-miniaudio
   jekyll-remote-theme
   tzinfo (~> 1.2)
   tzinfo-data
