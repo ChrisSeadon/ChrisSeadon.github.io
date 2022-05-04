@@ -4,10 +4,16 @@ hide_body: false
 fields:
 - type: text
   name: layout
-  label: layout
+  label: Layout
 - type: text
   name: title
-  label: title
+  label: Title
 - type: datetime
   name: date
-  label: date
+  label: Date
+- name: cover-img
+  type: file
+  config:
+    maxSize: 64
+  description: Add a cover image
+  label: Cover Image
