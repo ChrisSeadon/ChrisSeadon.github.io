@@ -5,7 +5,7 @@ publish_mode: editorial_workflow
 
 media_folder: "assets/img/upload"
 
-ollections:
+collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
