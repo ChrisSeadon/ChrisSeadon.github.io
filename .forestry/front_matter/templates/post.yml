@@ -17,3 +17,5 @@ fields:
     maxSize: 64
   description: Add a cover image
   label: Cover Image
+pages:
+- _posts/testing-using-forestry-to-manage-posts.markdown
