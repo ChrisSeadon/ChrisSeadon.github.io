@@ -1,9 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: A subtitle
+subtitle: I like to think I have skills
 ---
 
-### A heading
+Somebody remind me to update this page with some actual info :)
 
-Hopefully that works? And I can make text **bold** like that. I am a genius
+Producer and mix engineer, I mostly work in the realm of rock and roll: but also enjoy mixing whatever artists throw at me, pop, folk, you name it. This site will eventually contain some examples of my work.
+
+Also sometimes a videographer? I record live music events and try to make you look better than you are. Again, there will be some examples here at some point in the distant future!

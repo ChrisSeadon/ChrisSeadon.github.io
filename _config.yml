@@ -15,16 +15,16 @@ author: Chris Seadon
 
 navbar-links:
   About Me: "aboutme"
-  Other things (will change):
-    - The Antibody Spotify: "https://open.spotify.com/artist/0zg30tLkKjG7PgjzLYComY?si=4_yhd0psQRevyjQs7Y0GpQ"
-    - The Antibody Instagram: "https://www.instagram.com/the.antibody/"
+  Some links:
+    - Alien People: "https://linktr.ee/alienpeople"
+    - Chris Seadon: "https://linktr.ee/cseadonproductions"
   A button: "secretpage"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -42,14 +42,14 @@ social-network-links:
   email: "cseadon1@gmail.com"
 #  facebook: deanattali
   github: chrisseadon
-  twitter: nope
+#  twitter: nope
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: the.antibody
-#  youtube: user/deanat78
+  instagram: chris.seadon.productions
+  youtube: channel/UC8qw29FpAwYhx0V4io-EhZA
   spotify: thislinkwontwork
 #  telephone: +14159998888
 #  steam: deanat78
