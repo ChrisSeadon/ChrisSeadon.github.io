@@ -1,18 +1,14 @@
 ---
 layout: post
 title: Making Space for Vocals with Dynamic EQ
-date: 2022-05-04 17:48
+date: 2022-06-15 17:48
 ---
-
-Just testing using this [admin panel](https://github.com/jekyll/jekyll-admin) to update the site, and embedding audio so that I can show things off and actually make this a portfolio. So let's talk about mixing!
 
 I was working on a mix recently and amongst some very mid-heavy electric guitars had some trouble getting the lead vocals to cut through. A normal solution to this would be to just scoop the guitar tone significantly and let the vocals sit in that space -- but I was pretty happy with the guitar tone from my Marshall DSL20, and it felt a shame to ruin that in sections of the mix where the vocals were less prominent. As a solution, then: sidechaining! And dynamic EQ using Fabfilter Pro Q-3.
 
 First, the final (in its current state) mix:
 
 <audio controls=""><source src="/assets/audio/scattered fullmix.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
-
-*(^ I should maybe link things like that from Google Drive so that I'm not using up all of the space in the site repo)*
 
 Hopefully you can hear that the vocals are cutting through fairly well and aren't lost amongst the wide guitars. I'll show the trick using Fabfilter and then some audio examples of the isolated guitar/vocals before and after.
 
