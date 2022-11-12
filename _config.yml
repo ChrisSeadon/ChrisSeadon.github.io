@@ -14,19 +14,19 @@ author: Chris Seadon
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Some links:
-    - Alien People: "https://linktr.ee/alienpeople"
-    - Chris Seadon: "https://linktr.ee/cseadonproductions"
-  Portfolio: "portfolio"
+  #About Me: "aboutme"
+  #Some links:
+  #  - Alien People: "https://linktr.ee/alienpeople"
+  #  - Chris Seadon: "https://linktr.ee/cseadonproductions"
+  #Portfolio: "portfolio"
   Contact: "contact"
-  .: "secretpage"
+  #.: "secretpage"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+#avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
