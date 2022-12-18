@@ -11,5 +11,4 @@ Whether you're looking for somebody to mix an album, produce a track, or film a 
 
 I'm most likely to repond quickly by social media -- DM me @chris.seadon.productions!
 
-Or if you'd prefer, I'm happy to take any business queries by email [@cseadonproductions@gmail.com](mailto:@cseadonproductions@gmail.com).
-
+Or if you'd prefer, I'm happy to take any business queries by email at [cseadonproductions@gmail.com](mailto:cseadonproductions@gmail.com).
